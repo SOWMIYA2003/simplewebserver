@@ -113,5 +113,9 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
+## Client Side Output :
+![Output 1](/images/Output1.png)
+## Server Side Output :
+![Output 2](/images/Output2.png)
 
 ## RESULT:
